@@ -134,4 +134,4 @@ export default class ProductManager {
   // manager.deleteProduct(2);
   
   // console.log("Productos después de la eliminación:");
-  // console.log(manager.getProducts());
+  //console.log(manager.getProducts());
